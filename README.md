@@ -30,7 +30,7 @@
 </p>
 
 <p align="justify">
-Además, cuento con el <b>Degree of Master in Real Estate Management and Project Development</b> por la <b>Universidad San Francisco de Quito (USFQ)</b> 🐉🔴, lo que me ha permitido complementar la ingeniería con una visión más amplia del desarrollo y la gestión de proyectos.
+Además, cuento con el <b>Degree of Master in Real Estate Management and Project Development</b> por la <b>Universidad San Francisco de Quito (USFQ)</b>, lo que me ha permitido complementar la ingeniería con una visión más amplia del desarrollo y la gestión de proyectos.
 </p>
 
 <p align="justify">
