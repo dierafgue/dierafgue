@@ -1,5 +1,4 @@
-# Hi 👋 I'm Diego  
-# Hola 👋 Soy Diego
+# Hi 👋 I'm Diego | Hola 👋 Soy Diego
 
 👷‍♂️ Civil – Structural Engineer | 🌎 Earthquake-Resistant Design | 💻 Engineering with Code  
 👷‍♂️ Ingeniero Civil – Estructural | 🌎 Diseño Sismorresistente | 💻 Ingeniería con código
@@ -9,11 +8,17 @@
 ## 🎓 Education | Formación académica
 
 <p align="center">
-  <img src="assets/logos/puce.png" height="60">
+  <a href="https://www.puce.edu.ec" target="_blank">
+    <img src="assets/logos/puce.png" height="60" alt="Pontificia Universidad Católica del Ecuador">
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/usfq.png" height="60">
+  <a href="https://www.usfq.edu.ec" target="_blank">
+    <img src="assets/logos/usfq.png" height="60" alt="Universidad San Francisco de Quito">
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/espe.png" height="60">
+  <a href="https://www.espe.edu.ec" target="_blank">
+    <img src="assets/logos/espe.png" height="60" alt="Universidad de las Fuerzas Armadas ESPE">
+  </a>
 </p>
 
 ---
@@ -59,13 +64,13 @@ Depending on the day, my work involves structural dynamics, software-based struc
 ## 🤝 Connect with Me | Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/dierafgue">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:diegullo46@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@outlook.com">
+  <a href="mailto:drafaelgue@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
@@ -74,9 +79,9 @@ Depending on the day, my work involves structural dynamics, software-based struc
 
 ## 📚 Featured Repository | Repositorio destacado
 
-| Project | Description | Context |
-|-------|-------------|---------|
-| **ISO-LATE** | Tool developed as part of my <b>Master’s thesis in earthquake-resistant structural design</b>, focused on the dynamic analysis and comparison of structural behavior under seismic actions. | Master’s Degree |
+| # | Repository | Description | Field of Application | Authors | Tutor |
+|---|------------|-------------|----------------------|---------|-------|
+| 1 | [ISO-LATE](#) | 🇪🇸 Aplicación interactiva que permite <b>simular y comprender el comportamiento de estructuras 2D</b> frente a eventos sísmicos, comparando de forma clara la respuesta estructural de sistemas de <b>base fija y base aislada</b>, como apoyo al análisis y diseño de estructuras sismorresistentes.<br><br>🇬🇧 Interactive application that allows <b>simulation and understanding of 2D structural behavior</b> under seismic events, clearly comparing the structural response of <b>fixed-base and base-isolated systems</b>, supporting the analysis and design of earthquake-resistant structures. | Structural Engineering | MSc., MDI Diego R. Guerrero C. | MSc. Eng. Carlos Celi |
 
 ---
 
