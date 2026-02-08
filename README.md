@@ -107,18 +107,3 @@ Depending on the day, my work involves structural dynamics, software-based struc
 </p>
 
 ---
-
-## 🎯 Engineering mindset | Forma de ver la ingeniería
-
-<p align="center">
-🇪🇸 <i>La ingeniería no solo se trata de cumplir normas, sino de entender qué está pasando realmente en la estructura.</i>
-</p>
-
-<p align="center">
-🇬🇧 <i>Engineering is not only about complying with codes, but about understanding what is really happening inside the structure.</i>
-</p>
-
----
-
-⭐ *If you find something useful or interesting here, feel free to explore, star the repository, or get in touch.*  
-⭐ *Si algo de lo que ves aquí te resulta útil o interesante, no dudes en explorar, dejar una estrella o contactarme.*
