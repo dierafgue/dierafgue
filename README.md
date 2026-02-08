@@ -9,11 +9,11 @@
 ## 🎓 Education | Formación académica
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_PUCE.png" height="60" />
+  <img src="assets/logos/puce.png" height="60">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/USFQ_logo.png" height="60" />
+  <img src="assets/logos/usfq.png" height="60">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPE_logo.png" height="60" />
+  <img src="assets/logos/espe.png" height="60">
 </p>
 
 ---
