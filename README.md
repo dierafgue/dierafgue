@@ -48,7 +48,7 @@ Mi trabajo combina, según el día: dinámica estructural, diseño estructural a
 </p>
 
 <p align="justify">
-I also hold a <b>Degree of Master in Real Estate Management and Project Development</b> from the <b>Universidad San Francisco de Quito (USFQ)</b> 🐉🔴, which allows me to complement engineering with a broader perspective on project development and management.
+I also hold a <b>Degree of Master in Real Estate Management and Project Development</b> from the <b>Universidad San Francisco de Quito (USFQ)</b>, which allows me to complement engineering with a broader perspective on project development and management.
 </p>
 
 <p align="justify">
